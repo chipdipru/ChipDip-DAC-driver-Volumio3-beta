@@ -1,4 +1,4 @@
-# ChipDip DAC Driver installation for Volumio 3.111 08-10-2021
+# ChipDip DAC Driver installation for Volumio 3
 
 RasPi DSP Machine 1 (ADAU1701) - https://www.chipdip.ru/product0/9000827685
 
