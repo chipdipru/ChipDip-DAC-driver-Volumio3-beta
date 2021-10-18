@@ -2,7 +2,7 @@
 
 echo "Installing ChipDip DACs..."
 
-sudo cp ChipDip-DAC-driver-Volumio3-beta/snd-soc-chipdip-dac-5.4.ko /lib/modules/`uname -r`/kernel/sound/soc/bcm/snd-soc-chipdip-dac.ko
+sudo cp ChipDip-DAC-driver-Volumio3-beta/snd-soc-chipdip-dac-5.4.83-v7+.ko /lib/modules/`uname -r`/kernel/sound/soc/bcm/snd-soc-chipdip-dac.ko
 sudo cp ChipDip-DAC-driver-Volumio3-beta/chipdip-dac.dtbo /boot/overlays/chipdip-dac.dtbo
 sudo depmod
 
